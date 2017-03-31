@@ -2,13 +2,11 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>Reddit</title>
+  <link>https://www.reddit.com</link>
+  <description>Front Page of the Internet</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <link>https://www.reddit.com</link>
   </item>
 </channel>
 
